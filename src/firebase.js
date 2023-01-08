@@ -5,13 +5,13 @@ import {getAuth, GoogleAuthProvider, signInWithPopup} from 'firebase/auth'
 import { getDatabase } from "firebase/database";
  
 const firebaseConfig = {
-  apiKey: "AIzaSyC8OIIAsOK1wioWP4P6yPVPsgSP36VLS9o",
-  authDomain: "myhomeddel.firebaseapp.com",
-  projectId: "myhomeddel",
-  storageBucket: "myhomeddel.appspot.com",
-  messagingSenderId: "796518970216",
-  appId: "1:796518970216:web:23c61c3b2653eaad03dcdd",
-  measurementId: "G-3CYHFF5EL5"
+  apiKey: "AIzaSyDNTUYSRLGCxJx1pY31J6IoKOzzCq--aP4",
+  authDomain: "myhomedel-e9588.firebaseapp.com",
+  projectId: "myhomedel-e9588",
+  storageBucket: "myhomedel-e9588.appspot.com",
+  messagingSenderId: "374547844662",
+  appId: "1:374547844662:web:4dd9a9b62998a618ad9297",
+  measurementId: "G-KGTQTNHGL1"
 };
 
 // Initialize Firebase
