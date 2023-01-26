@@ -11,7 +11,6 @@ import AdminNavigation from './screens/Admin/AdminNavigation';
 
 import Comp_for_home from './components/Comp_for_home';
 import Cat from './components/Cat';
-import MapScreen from './MapScreen';
 import {Helmet} from "react-helmet";
 const root = ReactDOM.createRoot(document.getElementById('root'));
  
