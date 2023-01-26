@@ -2,7 +2,7 @@
  
  function Home() {
    return (
-     <div>Hello</div>
+     <div>Hey</div>
    )
  }
  
