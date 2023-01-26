@@ -24,20 +24,6 @@ import { update } from 'firebase/database';
 import { RWebShare } from "react-web-share";
 import ShareButton from './../components/ShareButton';
 import { NavLink } from 'react-router-dom';
-import {
- 
- 
-    EmailShareButton,
-    FacebookShareButton,
- 
-    TelegramShareButton,
-    
-    TwitterShareButton,
-     
-    WhatsappShareButton,
- 
-  } from "react-share";
-
 
 function ProfilePage(props) {
   const location = useLocation()
