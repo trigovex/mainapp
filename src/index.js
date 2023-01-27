@@ -8,7 +8,7 @@ import reportWebVitals from './reportWebVitals';
 import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 import Dashboard from './screens/Admin/Dashboard';
 import AdminNavigation from './screens/Admin/AdminNavigation';
-
+import DeviceOrientation, { Orientation } from 'react-screen-orientation'
 import Comp_for_home from './components/Comp_for_home';
 import Cat from './components/Cat';
 import {Helmet} from "react-helmet";
